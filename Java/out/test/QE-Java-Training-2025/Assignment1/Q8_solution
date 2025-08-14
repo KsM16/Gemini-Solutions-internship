@@ -1,0 +1,9 @@
+Q8. What’s the difference between creating an object like this:
+Student s1 = new Student();
+Student s2 = s1;
+vs.
+Student s2 = new Student();
+
+Solution -
+in the first case, it makes a shallow copy,both  references the same object
+in 2nd case it is a deep copy, independent of each other

@@ -1,0 +1,10 @@
+2. What are the advantages of using encapsulation while working with arrays or strings inside a class?
+
+Solution -
+Encapsulation refers to wrapping of data in a single unit.
+
+Advantages while working with arrays or strings :-
+1. hide implementation details
+2. prevents unauthorized modification
+3. makes code maintainable
+

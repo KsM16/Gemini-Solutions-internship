@@ -1,0 +1,10 @@
+Q11. You’re working on a system that processes large JSON files.
+How can you read such files efficiently in Java?
+What patterns or classes would you use
+
+Solution -
+We can use a streaming parser that reads the file token-by-token.
+The most popular and robust library for this in Java is Jackson.
+Its Streaming API, specifically the JsonParser class, is perfect for this task.
+Also we use Google's Gson library offers a similar JsonReader class that works on the same token-by-token principle.
+

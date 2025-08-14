@@ -1,0 +1,30 @@
+Q9.
+class A {
+int[] arr = {1, 2, 3};
+void modify() {
+arr[0] = 100;
+}
+}
+class B extends A {
+void modify() {
+arr = new int[] {4, 5, 6};
+}
+}
+
+public class Test {
+public static void main(String[] args) {
+A obj = new B();
+obj.modify();
+for (int i : obj.arr)
+System.out.print(i + " ");
+}
+}
+
+------------------------------------------------------------------------
+Solution -
+Output :
+4 5 6
+
+Explanation -
+it is because the object that we have created is of type B (runtime polymorphism)
+so it creates a new array and calls modify() method oc class B

@@ -1,0 +1,8 @@
+Q6. Will this compile?
+    if (true)
+        int x = 5;
+
+Solution :
+as x is not declared earlier so it will not compile
+If we used braces then it would compile also if x was declared earlier
+then it would compile without braces

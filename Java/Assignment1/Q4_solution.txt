@@ -1,0 +1,6 @@
+Q4. if-else is beneficial ?
+
+Solution -
+
+if-else is suitable over switch statement when we are dealing with complex relational operators or
+when conditions are not constant.

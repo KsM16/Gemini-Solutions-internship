@@ -1,0 +1,17 @@
+Q8. Consider a scenario where multiple users are updating a shared bank account balance concurrently.
+
+· What are the potential issues?
+
+· How can they be avoided?
+
+
+Solution -
+When multiple users try to update single field then -
+1. Race conditions - when two threads try to read and update at the same time it can give unexpected values
+2. Data inconsistency - intermediate states are visible resulting in inconsistencies like negative balance,etc.
+3. Error in Updates - fields can be overwritten in a haphazard fashion
+
+How to Avoid :
+1. Use synchronization keyword
+2. Use Locks
+3.  Use Thread-safe Data Structures like ConcurrentHashMap

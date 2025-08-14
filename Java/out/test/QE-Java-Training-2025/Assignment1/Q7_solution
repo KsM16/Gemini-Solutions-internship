@@ -1,0 +1,9 @@
+Q7. You’re creating a User class for an e-commerce app. One developer makes the
+password field public. Another modifies it directly elsewhere. Why is this a
+problem? How can you prevent such misuse?
+
+Solution -
+It is a problem because it compromises the security of the app, as in this way
+anyone can change the access the password
+
+we can make the fields private to prevent this

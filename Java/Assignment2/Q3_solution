@@ -1,0 +1,5 @@
+3. How are multi-dimensional arrays stored in Java (especially 2D arrays)?
+
+Solution -
+In java multidimensional arrays are not stored in contiguous memory location.
+In 2D arrays, there is one array that act as a reference to another 1-D array.
