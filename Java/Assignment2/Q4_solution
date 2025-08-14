@@ -1,0 +1,6 @@
+4. Explain how Strings are stored in Java?What is the String Pool?
+
+Solution -
+Strings are objects of the String class and they are stored in String Pool.
+String Pool is a special memory area that stores unique string literals to save memory.
+If a string is already created it makes it reuses it and if not then it adds it in string pool

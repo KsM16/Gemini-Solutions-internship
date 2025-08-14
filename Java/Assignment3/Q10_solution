@@ -1,0 +1,7 @@
+Q10. Explain how method references differ from lambda expressions.
+In what scenarios would you prefer one over the other?
+
+Solution -
+
+Lambda Expression can contain custom logic but Method Reference an existing method
+Lambda Expression are better for simple one-line function  whereas as Method Reference are used when delegating to an existing method

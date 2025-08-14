@@ -1,0 +1,14 @@
+Q9. Java provides both sequential and parallel ways to process collections.
+
+· When should you consider using parallel processing?
+
+· What precautions must be taken?
+
+Solution -
+We can use Parallel processing when we are dealing with Large data sets,
+CPU-Intensive tasks or independent operations
+
+Precautions -
+Avoid shared mutable state inside the stream operations.
+Parallel streams may not maintain the encounter order so that we can use .forEachOrdered()
+Avoid nested parallel streams, which can create excessive thread usage and degrade performance

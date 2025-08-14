@@ -1,0 +1,17 @@
+Q10. Two interfaces A and B have a method with the same signature. What
+happens if a class implements both?
+interface A {
+void show();
+}
+interface B {
+void show();
+}
+class C implements A, B {
+public void show() {
+System.out.println("Implemented");
+}
+}
+
+Solution -
+it will compile both have same signatures so it will not cause any problem
+but it was default method that it cause diamond problem

@@ -1,0 +1,19 @@
+1. What is the difference between a String, StringBuilder, and StringBuffer in Java?
+
+Solution -
+
+1. String :
+it is immutable,
+it is thread safe,
+it is stored in string pool
+
+2. StringBuilder:
+it is mutable,
+it is not thread safe,
+supports only single-thread use,
+relatively faster than StringBuffer
+
+3. StringBuffer :
+it is mutable,
+it supports multi-thread use,
+relatively slower than StringBuilder

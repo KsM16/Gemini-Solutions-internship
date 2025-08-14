@@ -1,0 +1,5 @@
+Q11. What is the difference between == and .equals() in Java?
+
+Solution -
+== compares primitive data types and and check only object reference
+but (.equals) uses compares the contents as well and is often used for non-primitive datatypes

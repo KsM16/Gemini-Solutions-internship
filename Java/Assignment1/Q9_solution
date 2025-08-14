@@ -1,0 +1,6 @@
+Q9. Can an abstract class have a constructor? If yes, how is it useful?
+
+Solution -
+Yes, abstract classes can have constructors. They give the same utility as other constructors
+so we cant make an object of abstarct class but constructor will be called when subclass object
+is created

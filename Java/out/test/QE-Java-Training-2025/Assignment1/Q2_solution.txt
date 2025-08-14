@@ -1,0 +1,24 @@
+Q2.
+public class Test {
+    public static void modify(Box b) {
+        b = new Box();     // Creates a new Box and assigns it to local variable b
+        b.size = 100;      // Sets the size of the new Box to 100
+    }
+
+    public static void main(String[] args) {
+        Box b1 = new Box();   // b1 points to a Box object
+        b1.size = 10;         // Set size to 10
+        modify(b1);           // Pass b1 to modify
+        System.out.println(b1.size);  // Print the size of b1
+    }
+}
+
+-----------------------------------------------------------------------------
+
+Solution :
+output : 10
+
+when we call modify() method, it gets reference of to the Box object, but
+at the same time we also create a new object. This changes the reference and b1 has its orignal value
+
+
