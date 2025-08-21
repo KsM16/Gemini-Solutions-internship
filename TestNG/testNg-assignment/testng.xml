@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Test1">
+        <classes>
+            <class name="org.example.testngassignment.Test1"></class>
+        </classes>
+
+    </test>
+
+    <test name="Test2">
+        <classes>
+            <class name="org.example.testngassignment.Test2"></class>
+        </classes>
+
+    </test>
+
+</suite>
+
+<!--<suite name="Grouped tests">-->
+<!--    <test name="FirstTasks">-->
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="FirstTasks"/>-->
+<!--            </run>-->
+<!--        </groups>-->
+<!--        <classes>-->
+<!--            <class name="org.example.testngassignment.Test1"/>-->
+<!--            <class name="org.example.testngassignment.Test2"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
