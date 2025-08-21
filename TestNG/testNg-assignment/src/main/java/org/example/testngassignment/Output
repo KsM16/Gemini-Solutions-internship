@@ -58,3 +58,61 @@ public class Test1 {
         System.out.println("sleeping right now");
     }
 }
+----------------------------------------------------------------
+Test2.java
+
+package org.example.testngassignment;
+
+import org.testng.annotations.Test;
+
+public class Test2 {
+
+    @Test(priority = 1, groups = {"FirstTasks"})
+    public void login(){
+        System.out.println("I have logged-in");
+    }
+
+    @Test(priority = 2)
+    public void work(){
+        System.out.println("doing my work");
+    }
+    @Test(priority = 3)
+    public void exit(){
+        System.out.println("Log-out");
+    }
+}
+
+
+----------------------------------------------------------------------------
+Output:
+
+(With groups)
+
+I am eating
+I have logged-in
+
+===============================================
+Grouped tests
+Total tests run: 2, Passes: 2, Failures: 0, Skips: 0
+===============================================
+
+
+Process finished with exit code 0
+
+
+(Without Groups)
+
+I am eating
+doing dev
+sleeping right now
+I have logged-in
+doing my work
+Log-out
+
+===============================================
+All Test Suite
+Total tests run: 6, Passes: 6, Failures: 0, Skips: 0
+===============================================
+
+
+Process finished with exit code 0
