@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ReqRes Suite">
+    <test name="ReqRes Tests">
+        <classes>
+            <class name="com.reqres.tests.ReqResTests"/>
+        </classes>
+    </test>
+</suite>
+
+
+
+        <!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Kshitiz.manral/Desktop/REST-Assured-API-training/reqres-restassured/pom.xml"><classes/></test></suite>-->

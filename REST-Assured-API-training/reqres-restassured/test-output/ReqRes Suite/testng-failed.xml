@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ReqRes Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ReqRes Tests(failed)">
+    <classes>
+      <class name="com.reqres.tests.ReqResTests">
+        <methods>
+          <include name="Q7_getNonExistingUser"/>
+          <include name="Q3_createUser"/>
+          <include name="Q2_getSingleUser"/>
+          <include name="Q12_jsonKeyValueMatching"/>
+          <include name="Q6_chainedScenario_CreateThenGet"/>
+          <include name="setUp"/>
+          <include name="Q4_updateUser"/>
+          <include name="Q14_dynamicJsonPath"/>
+          <include name="Q8_extractSingleField"/>
+          <include name="Q5_deleteUser"/>
+          <include name="Q11_nestedJsonValidation"/>
+        </methods>
+      </class> <!-- com.reqres.tests.ReqResTests -->
+    </classes>
+  </test> <!-- ReqRes Tests(failed) -->
+</suite> <!-- Failed suite [ReqRes Suite] -->
