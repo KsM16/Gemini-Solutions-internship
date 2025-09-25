@@ -1,0 +1,374 @@
+[API Trapper      (3fd4:2084)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      ( a78:77a0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (6b70:628c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (6b70:3010)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6b70:3010)] Load Network Traffic Analyzers:
+[Network Analyzer (6b70:3010)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (6b70:3010)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (6b70:3010)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (6b70:3010)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (6b70:3010)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (6b70:3010)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (6b70:3010)]     Analyzer Module: local_server (value=)
+[Network Analyzer (6b70:3010)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6b70:8630)] Address lookup for GEMGN-220265 = 192.168.1.8
+[API Trapper      (3bc4:5fa4)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[API Trapper      ( 808:3144)] Recording in 64-bit mode: C:\Program Files\CrowdStrike\CsFalconConnector.exe
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (509c:4aac)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (7370:80dc)] Recording in 64-bit mode: C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4003:C01:0:0:0:BC: - 5228  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:806:0:0:0:2003: - 443  (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:809:0:0:0:2004: - 443  (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 142.251.220.78:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4009:81B:0:0:0:2003: - 443  (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2600:9000:245A:A200:C:7326:8300:93A1: - 443  (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (6b70:3b60)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:41e4)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70: 96c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:827:0:0:0:200A: - 443  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4003:C11:0:0:0:54: - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (6b70:41e4)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:3b60)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (6b70:8630)] "GET /WebTours/"   
+[Network Analyzer (6b70: 96c)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:8630)]   (Sid:  4) Client -> Server @ : 673 bytes (Service=HTTP)
+[Network Analyzer (6b70:8ae0)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:8630)]   (Sid:  4) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (6b70:5f6c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70: a7c)]   (Sid:  1) Client -> Server @ : 156 bytes (SSL)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4009:80D:0:0:0:2004: - 443  (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (6b70: a7c)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=140"   
+[Network Analyzer (6b70: a7c)]   (Sid:  2) Client -> Server @ : 475 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70:5f6c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:8ae0)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (6b70:8630)] "GET /WebTours/header.html"   
+[Network Analyzer (6b70:8630)]   (Sid:  4) Client -> Server @ : 710 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid:  4) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer (6b70: 65c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:2348)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70: c9c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:5598)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (6b70: a7c)] "GET /v2/update.xml?os=win&arch=x64&os_arch=x86_64&prod=chromecrx&prodchannel=&prodversion=140.0.7339.186&lang=en-US&acceptformat=crx3,puff&x=id%3Dklicnoclcmhafeeepkpdedpojjlaaflf%26v%3D2.0.19%26installsource%3Dnotfromwebstore%26installedby%3Dpolicy%26uc"   
+[Network Analyzer (6b70: a7c)]   (Sid:  7) Client -> Server @ : 601 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  1) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (6b70: a7c)]   (Sid:  1) Server -> Client : 67 bytes (SSL)
+[Network Analyzer (6b70: a7c)]   (Sid:  1) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (6b70: a7c)]   (Sid:  7) Server -> Client : 827 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  2) Server -> Client : 583 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:8630)]   (Sid:  4) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70: c9c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:5598)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:2348)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70: 65c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70: a7c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Client -> Server @ : 536 bytes (SSL)(Service=HTTP)
+[Web Request      (6b70: a7c)] "POST /v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"   
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Client -> Server @ : 1155 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (6b70: a7c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (6b70: a7c)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (6b70: a7c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Server -> Client : 1198 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Server -> Client : 1198 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Server -> Client : 352 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid:  5) Connection Terminated (by Client)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70: a7c)]   (Sid:  2) Connection Terminated (by Client)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (6b70: a7c)]   (Sid:  8) Connection Terminated (by Client)
+[Web Request      (6b70:8630)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (6b70:8630)]   (Sid: 11) Client -> Server @ : 721 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (6b70:8630)]   (Sid: 12) Client -> Server @ : 626 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 12) Server -> Client : 899 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (6b70:8630)]   (Sid: 12) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 12) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (6b70:8630)]   (Sid: 11) Client -> Server @ : 762 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/home.html"   
+[Network Analyzer (6b70:8630)]   (Sid: 12) Client -> Server @ : 758 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 12) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 11) Client -> Server @ : 658 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:81E:0:0:0:200A: - 443  (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (6b70:8630)] "GET /favicon.ico"   
+[Network Analyzer (6b70:8630)]   (Sid: 11) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (6b70:5480)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:5480)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (6b70: a7c)] "GET /v1/pages/ChVDaHJvbWUvMTQwLjAuNzMzOS4xODYSIAlN-SI5wUW4MBIFDeeNQA4SBQ3OQUx6IUnhNcH6RPDwGLepygE=?alt=proto"   
+[Network Analyzer (6b70: a7c)]   (Sid: 13) Client -> Server @ : 557 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 13) Server -> Client : 491 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:828:0:0:0:2003: - 443  (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (6b70:5c2c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6b70:5c2c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (6b70: a7c)] "POST /service/update2/json?cup2key=15:u21FtMBuxFfTz8UHtS4pdXbrBRkwk9sKJVwkyEjRgGk&cup2hreq=80d1544cc5d9edb6f7481c03a8bea1da431ec44f01cda26a29373180bc288369"
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Client -> Server @ : 1471 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Client -> Server @ : 9874 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Server -> Client : 1049 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Server -> Client : 1198 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Server -> Client : 45 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (6b70:8630)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (6b70:8630)]   (Sid: 14) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 14) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (6b70:8630)]   (Sid: 14) Client -> Server @ : 867 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:8630)]   (Sid: 14) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 2404:6800:4002:802:0:0:0:200A: - 443  (Service=)  (Sid= 16)  PROXIED!
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:21f0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (6b70:21f0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (6b70:8630)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (6b70:8630)]   (Sid: 17) Client -> Server @ : 862 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 18) Client -> Server @ : 776 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 19) Client -> Server @ : 778 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 18) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 20) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 19) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 20) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 18) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 18) Server -> Client : 1048 bytes  (Service=HTTP)
+[Web Request      (6b70: a7c)] "GET /v4/threatListUpdates:fetch?$req=Ch4KDGdvb2dsZWNocm9tZRIOMTQwLjAuNzMzOS4xODYaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARCv_hwaAhgJjVIWDyIEIAEgAigBGigIEBABGhoKDQgQEAYYASIDMDAxMAEQ7DUaAhgJ-lvayyIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQvKUSGgIYCU6m8cgiBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEMydEhoCGAng2I4fIgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARCs8wcaAhgJuflJQyIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQxsQSGgIYCbXDxH8iBCABIAIoARooCAEQCBoaCg0IARAIGAEiAzAwMTAEEOc9GgIYCZ90f04iBCABIAIoBBopCA8QARobCg0IDxAGGAEiAzAwMTABEPrhBhoCGAnBTxTHIgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAjGgIYCYvTO50iBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEKAaGgIYCZtphYwiBCABIAIoARopCA0QARobCg0IDRAGGAEiAzAwMTABELfTAhoCGAlcDbVOIgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"   
+[Network Analyzer (6b70: a7c)]   (Sid: 16) Client -> Server @ : 1119 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 17) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 16) Server -> Client : 1198 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 16) Server -> Client : 513 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 17) Connection Terminated (by Server)
+[API Trapper      ( 910:3db4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Web Request      (6b70:8630)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (6b70:8630)]   (Sid: 21) Client -> Server @ : 901 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 21) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (6b70:8630)]   (Sid: 21) Client -> Server @ : 884 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 21) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:8630)]   (Sid: 21) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (6b70:8630)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (6b70:8630)]   (Sid: 22) Client -> Server @ : 885 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 23) Client -> Server @ : 782 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 23) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 23) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 23) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 22) Server -> Client : 4516 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 22) Client -> Server @ : 784 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 22) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 22) Connection Terminated (by Server)
+[Web Request      (6b70:8630)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (6b70:8630)]   (Sid: 24) Client -> Server @ : 1269 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 24) Server -> Client : 2710 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (6b70: a7c)]   (Sid: 13) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Web Request      (6b70:8630)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (6b70:8630)]   (Sid: 25) Client -> Server @ : 1157 bytes (Service=HTTP)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 25) Server -> Client : 2962 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 25) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 25) Connection Terminated (by Server)
+[Web Request      (6b70:8630)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (6b70:8630)]   (Sid: 26) Client -> Server @ : 1297 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 26) Server -> Client : 2841 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 26) Client -> Server @ : 747 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 26) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 26) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Web Request      (6b70:8630)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (6b70:8630)]   (Sid: 27) Client -> Server @ : 883 bytes (Service=HTTP)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 27) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 27) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (6b70:8630)]   (Sid: 27) Client -> Server @ : 865 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (6b70:8630)]   (Sid: 28) Client -> Server @ : 848 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 28) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 28) Server -> Client : 4183 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 28) Client -> Server @ : 750 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 27) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 27) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 28) Server -> Client : 1128 bytes  (Service=HTTP)
+[Network Analyzer (6b70: a7c)]   (Sid: 16) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:8630)]   (Sid: 28) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 27) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Web Request      (6b70:8630)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 29) Client -> Server @ : 754 bytes (Service=HTTP)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 29) Server -> Client : 1040 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (6b70:8630)]   (Sid: 30) Client -> Server @ : 762 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 30) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (6b70:8630)]   (Sid: 29) Connection Terminated (by Server)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (6b70:3010)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (6b70:3010)] Address lookup for GEMGN-220265 = 192.168.1.8
+[Web Request      (6b70:8630)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (6b70:8630)]   (Sid: 31) Client -> Server @ : 880 bytes (Service=HTTP)
+[Network Analyzer (6b70:3010)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (6b70:8630)]   (Sid: 31) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (6b70:8630)]   (Sid: 31) Client -> Server @ : 759 bytes (Service=HTTP)
+[Web Request      (6b70:8630)] "GET /WebTours/home.html"   
+[Network Analyzer (6b70:8630)]   (Sid: 32) Client -> Server @ : 855 bytes (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 32) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 31) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (6b70:8630)]   (Sid: 32) Connection Terminated (by Server)

@@ -1,0 +1,4 @@
+departCity,arriveCity,seatPref,seatType
+Denver,Zurich,Aisle,First
+Paris,Portland,Window,Business
+Sydney,Frankfurt,None,Coach

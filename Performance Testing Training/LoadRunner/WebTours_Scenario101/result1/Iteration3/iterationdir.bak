@@ -1,0 +1,10 @@
+[Select_Flight]
+SnapshotIndex=I3_Select_Flight
+[Action]
+SnapshotIndex=I3_Action
+[Book_Flight]
+SnapshotIndex=I3_Book_Flight
+[Login]
+SnapshotIndex=I3_Login
+[Itinerary]
+SnapshotIndex=I3_Itinerary

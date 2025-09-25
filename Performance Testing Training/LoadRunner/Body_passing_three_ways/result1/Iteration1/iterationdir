@@ -1,0 +1,6 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[CSV_file_upload]
+SnapshotIndex=I1_CSV_file_upload
+[vuser_end]
+SnapshotIndex=I1_vuser_end

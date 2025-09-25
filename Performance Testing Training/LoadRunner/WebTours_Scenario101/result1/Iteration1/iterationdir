@@ -1,0 +1,14 @@
+[SignOff]
+SnapshotIndex=I1_SignOff
+[Itinerary]
+SnapshotIndex=I1_Itinerary
+[Book_Flight]
+SnapshotIndex=I1_Book_Flight
+[Action]
+SnapshotIndex=I1_Action
+[Login]
+SnapshotIndex=I1_Login
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[Select_Flight]
+SnapshotIndex=I1_Select_Flight
