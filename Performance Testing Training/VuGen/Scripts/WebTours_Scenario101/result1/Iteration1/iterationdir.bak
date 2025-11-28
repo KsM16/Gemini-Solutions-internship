@@ -1,0 +1,12 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[Select_Flight]
+SnapshotIndex=I1_Select_Flight
+[Action]
+SnapshotIndex=I1_Action
+[Book_Flight]
+SnapshotIndex=I1_Book_Flight
+[Login]
+SnapshotIndex=I1_Login
+[Itinerary]
+SnapshotIndex=I1_Itinerary

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Kshitiz.manral\Documents\VuGen\Scripts\Body_passing_three_ways
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\logfile.log
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\combined_Body_passing_three_ways.c
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c

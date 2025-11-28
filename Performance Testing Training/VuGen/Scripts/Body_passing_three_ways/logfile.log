@@ -1,0 +1,13 @@
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Diff_file_20_times.c:9: error: illegal statement termination
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Diff_file_20_times.c:9: error: skipping `int'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Diff_file_20_times.c:9: error: undeclared identifier `i'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Diff_file_20_times.c:9: warning: expression with no effect elided
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:8: error: illegal statement termination
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:8: error: skipping `int'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:8: error: undeclared identifier `myNumber'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:12: error: illegal statement termination
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:12: error: skipping `char'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:12: error: undeclared identifier `jsonBody'
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:12: error: type error: pointer expected
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: Third_task.c:12: warning: expression with no effect elided
+c:\users\kshitiz.manral\documents\vugen\scripts\body_passing_three_ways\\pre_cci.c: c:\\users\\kshitiz.manral\\documents\\vugen\\scripts\\body_passing_three_ways\\\\combined_Body_passing_three_ways.c:8: error: 10 errors, not writing pre_cci.ci

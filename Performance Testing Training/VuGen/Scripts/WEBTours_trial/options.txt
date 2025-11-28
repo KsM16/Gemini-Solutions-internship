@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Kshitiz.manral\Documents\VuGen\Scripts\WEBTours_trial
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\kshitiz.manral\documents\vugen\scripts\webtours_trial\\logfile.log
+c:\users\kshitiz.manral\documents\vugen\scripts\webtours_trial\\combined_WEBTours_trial.c
+c:\users\kshitiz.manral\documents\vugen\scripts\webtours_trial\\pre_cci.c

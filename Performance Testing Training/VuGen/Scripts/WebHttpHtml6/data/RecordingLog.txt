@@ -1,0 +1,333 @@
+[API Trapper      (5ab4:89e4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (8154:797c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (8264:7870)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (8264:446c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (8264:446c)] Load Network Traffic Analyzers:
+[Network Analyzer (8264:446c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (8264:446c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (8264:446c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (8264:446c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (8264:446c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (8264:446c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (8264:446c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (8264:446c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (8264:4afc)] Address lookup for GEMGN-220265 = 10.50.0.132
+[API Trapper      (7834:713c)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[API Trapper      (5240: 97c)] Recording in 64-bit mode: C:\Program Files\CrowdStrike\CsFalconConnector.exe
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (7c20:28bc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.251.12.188:5228   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.250.193.3:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.250.194.35:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.251.43.110:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 172.217.26.4:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 108.158.245.76:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 74.125.130.84:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 172.217.24.234:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:79f4)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:3f40)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:2b48)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:4718)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:7ac0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 172.217.26.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (8264:4afc)] "GET /WebTours/"   
+[Network Analyzer (8264:4afc)]   (Sid: 10) Client -> Server @ : 673 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 10) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (8264:79f4)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:3f40)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:2b48)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:4718)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:7ac0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (8264:4afc)] "GET /WebTours/header.html"   
+[Network Analyzer (8264:4afc)]   (Sid: 10) Client -> Server @ : 710 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=140"   
+[Network Analyzer (8264:5b24)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:4afc)]   (Sid:  2) Client -> Server @ : 475 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  3) Client -> Server @ : 913 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "POST /c2dm/register3"   
+[Network Analyzer (8264:4afc)]   (Sid:  4) Client -> Server @ : 568 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "GET /async/folae?async=_fmt:pb"   
+[Network Analyzer (8264:4afc)]   (Sid:  5) Client -> Server @ : 359 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "GET /v2/update.xml?os=win&arch=x64&os_arch=x86_64&prod=chromecrx&prodchannel=&prodversion=140.0.7339.186&lang=en-US&acceptformat=crx3,puff&x=id%3Dklicnoclcmhafeeepkpdedpojjlaaflf%26v%3D2.0.19%26installsource%3Dnotfromwebstore%26installedby%3Dpolicy%26uc"   
+[Network Analyzer (8264:4afc)]   (Sid:  6) Client -> Server @ : 601 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "POST /service/update2/json?cup2key=15:yL7UkbdYmuWn029h9Zq89wAz9TWE1bfsuBv9-OLl0Is&cup2hreq=cd68dc51a911a7d65533f44ac8f6b0321fbc531d82129c589ba4333b0b621e86"   
+[Network Analyzer (8264:4afc)]   (Sid:  3) Client -> Server @ : 2596 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 10) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer (8264:6b94)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:4afc)]   (Sid:  6) Server -> Client : 827 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:7d00)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:8518)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:4afc)]   (Sid:  4) Server -> Client : 731 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  4) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  3) Server -> Client : 1041 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  3) Server -> Client : 462 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  3) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  5) Server -> Client : 1285 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  2) Server -> Client : 583 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:4afc)]   (Sid: 10) Connection Terminated (by Server)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:6b94)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:5b24)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:8518)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:7d00)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (8264:4afc)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&laf=b64bin&json=standard"   
+[Network Analyzer (8264:4afc)]   (Sid:  7) Client -> Server @ : 894 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  8) Client -> Server @ : 536 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "GET /async/folae?async=_fmt:pb"   
+[Network Analyzer (8264:4afc)]   (Sid:  9) Client -> Server @ : 744 bytes (SSL)(Service=HTTP)
+[Web Request      (8264:4afc)] "POST /v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"   
+[Network Analyzer (8264:4afc)]   (Sid:  8) Client -> Server @ : 1155 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  8) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  8) Server -> Client : 1182 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  8) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  7) Server -> Client : 1938 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid:  9) Server -> Client : 1285 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:4afc)]   (Sid:  1) Client -> Server @ : 156 bytes (SSL)
+[Network Analyzer (8264:4afc)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (8264:4afc)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (8264:4afc)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (8264:4afc)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (8264:4afc)]   (Sid:  1) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (8264:4afc)]   (Sid:  1) Server -> Client : 67 bytes (SSL)
+[Network Analyzer (8264:4afc)]   (Sid:  1) Server -> Client : 12 bytes (SSL)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:4afc)]   (Sid:  2) Connection Terminated (by Client)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.251.43.110:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (8264:4afc)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (8264:4afc)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (8264:4afc)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 172.217.26.4:443   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (8264:4afc)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (8264:4afc)]   (Sid: 12) Client -> Server @ : 721 bytes (Service=HTTP)
+[Network Analyzer (8264:45c4)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (8264:4afc)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (8264:4afc)]   (Sid: 13) Client -> Server @ : 626 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 13) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer (8264:45c4)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (8264:4afc)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (8264:4afc)]   (Sid: 13) Client -> Server @ : 627 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "POST /c2dm/register3"   
+[Network Analyzer (8264:4afc)]   (Sid: 11) Client -> Server @ : 568 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 13) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (8264:65c0)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:65c0)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /async/folae?async=_fmt:pb"   
+[Network Analyzer (8264:4afc)]   (Sid: 14) Client -> Server @ : 744 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 453 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 152 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (8264:4afc)]   (Sid: 12) Client -> Server @ : 762 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/home.html"   
+[Network Analyzer (8264:4afc)]   (Sid: 13) Client -> Server @ : 758 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 13) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 12) Client -> Server @ : 658 bytes (Service=HTTP)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 172.217.26.10:443   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (8264:4afc)] "GET /favicon.ico"   
+[Network Analyzer (8264:4afc)]   (Sid: 12) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (8264:8544)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:8544)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (8264:4afc)] "GET /v1/pages/ChVDaHJvbWUvMTQwLjAuNzMzOS4xODYSIAlN-SI5wUW4MBIFDeeNQA4SBQ3OQUx6IUnhNcH6RPDwGLepygE=?alt=proto"   
+[Network Analyzer (8264:4afc)]   (Sid: 16) Client -> Server @ : 557 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 14) Server -> Client : 1285 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 16) Server -> Client : 491 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 142.250.194.35:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (8264:421c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (8264:421c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (8264:4afc)] "POST /service/update2/json?cup2key=15:hFATnVcIAUyJEnyfCu9JY-bsjhG5Fy9IvgcM3Qewu2M&cup2hreq=de0aaa7d80b4678b25c3fe2f917e58b4a223eb26aff5117c23f979f1426ddaba"
+[Network Analyzer (8264:4afc)]   (Sid: 17) Client -> Server @ : 1471 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 17) Client -> Server @ : 9874 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 17) Server -> Client : 1049 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 17) Server -> Client : 1196 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 17) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (8264:4afc)]   (Sid: 12) Connection Terminated (by Server)
+[Web Request      (8264:4afc)] "POST /c2dm/register3"   
+[Network Analyzer (8264:4afc)]   (Sid: 11) Client -> Server @ : 568 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 453 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 184 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[API Trapper      (42a8:5790)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (8264:4afc)]   (Sid: 15) Connection Terminated (by Client)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (8264:4afc)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (8264:4afc)]   (Sid: 18) Client -> Server @ : 1016 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (8264:4afc)]   (Sid: 18) Client -> Server @ : 867 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (8264:4afc)]   (Sid: 19) Client -> Server @ : 862 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 19) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 18) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Server -> Client : 1023 bytes  (Service=HTTP)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:4afc)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer (8264:4afc)]   (Sid: 18) Connection Terminated (by Server)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (8264:446c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (8264:4afc)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 20) Client -> Server @ : 776 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 21) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 20) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 21) Server -> Client : 1049 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 778 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (8264:446c)] Address lookup for GEMGN-220265 = 10.50.0.132
+[Network Analyzer (8264:446c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (8264:4afc)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 901 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 884 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (8264:4afc)]   (Sid: 21) Client -> Server @ : 885 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 21) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 21) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 21) Client -> Server @ : 784 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 782 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 20) Client -> Server @ : 776 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 20) Server -> Client : 985 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /v1/pages/ChVDaHJvbWUvMTQwLjAuNzMzOS4xODYSNQlBQlOibcsVChIFDVRiKa0SBQ17ncSlEgUNHzs5hRIFDdqFmWESBQ2pjkq9IZDGj2szX6mzGLepygE=?alt=proto"   
+[Network Analyzer (8264:4afc)]   (Sid: 16) Client -> Server @ : 585 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 21) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 16) Server -> Client : 514 bytes (SSL) (Service=HTTP)
+[Web Request      (8264:4afc)] "POST /c2dm/register3"   
+[Network Analyzer (8264:4afc)]   (Sid: 11) Client -> Server @ : 568 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 584 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (8264:4afc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 1262 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 2682 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 1154 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 2956 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /v1/pages/ChVDaHJvbWUvMTQwLjAuNzMzOS4xODYSQwk5ylnIzuC4ABIFDWtomm4SBQ1Pnif4EgUNY5MnhxIFDaJZuEkSBQ34tP6gEgUNV2gsmRIFDW36Zskh5R615qmjHBgYt6nKAQ==?alt=proto"   
+[Network Analyzer (8264:4afc)]   (Sid: 16) Client -> Server @ : 605 bytes (SSL)(Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 16) Server -> Client : 559 bytes (SSL) (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (8264:4afc)]   (Sid: 21) Connection Terminated (by Server)
+[Web Request      (8264:4afc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 1294 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 2823 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 747 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1103 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 878 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (8264:4afc)]   (Sid: 22) Client -> Server @ : 759 bytes (Service=HTTP)
+[Web Request      (8264:4afc)] "GET /WebTours/home.html"   
+[Network Analyzer (8264:4afc)]   (Sid: 23) Client -> Server @ : 855 bytes (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 23) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (8264:4afc)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)

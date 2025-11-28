@@ -1,0 +1,14 @@
+[Click_Continue_1]
+SnapshotIndex=I1_Click_Continue_1
+[Click_Continue_2]
+SnapshotIndex=I1_Click_Continue_2
+[Click_Flights]
+SnapshotIndex=I1_Click_Flights
+[Login]
+SnapshotIndex=I1_Login
+[Launch]
+SnapshotIndex=I1_Launch
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[vuser_end]
+SnapshotIndex=I1_vuser_end

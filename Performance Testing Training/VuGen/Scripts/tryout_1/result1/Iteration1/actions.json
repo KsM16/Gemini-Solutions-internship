@@ -1,0 +1,42 @@
+[
+    {
+        "actionName": "GET",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: web_custom_request",
+                "infFile": "t2.inf",
+                "time": 1758451179681
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "API_101_GET",
+                "rawStartTime": 1758451179434,
+                "rawEndTime": 1758451179714,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08888792991638184
+            }
+        ]
+    },
+    {
+        "actionName": "POST",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: web_custom_request",
+                "infFile": "t4.inf",
+                "time": 1758451180441
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "API_101_POST",
+                "rawStartTime": 1758451179856,
+                "rawEndTime": 1758451180462,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006234645843505859
+            }
+        ]
+    }
+]

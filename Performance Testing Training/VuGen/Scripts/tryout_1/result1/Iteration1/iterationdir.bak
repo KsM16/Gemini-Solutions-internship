@@ -1,0 +1,6 @@
+[POST]
+SnapshotIndex=I1_POST
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[GET]
+SnapshotIndex=I1_GET

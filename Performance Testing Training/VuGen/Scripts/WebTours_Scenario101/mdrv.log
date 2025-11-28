@@ -1,0 +1,313 @@
+Virtual User Script started at: 21-09-2025 21:28:29
+Starting action vuser_init.
+Web Turbo Replay of Opentext Performance Engineering 2025.1.0 for Windows 11; build 573 (Jan 08 2025 17:57:17)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\WebTours_Scenario101\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Ending action Action.
+Starting action Login.
+Login.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Login.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Login.c(6): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Login.c(6): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Login.c(9): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Login.c(9): web_url("WebTours") was successful, 10074 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(24): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Login.c(24): web_submit_data("login.pl") was successful, 795 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Login.
+Starting action Select_Flight.
+Select_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Select_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Select_Flight.c(9): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): web_url("welcome.pl") was successful, 10000 body bytes, 2212 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Select_Flight.c(22): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Select_Flight.c(22): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Select_Flight.c(32): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(32): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Select_Flight.c(32): web_submit_data("reservations.pl") was successful, 2441 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Select_Flight.
+Starting action Book_Flight.
+Book_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Book_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Book_Flight.c(9): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") was successful, 2635 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Book_Flight.c(29): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") was successful, 3271 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Book_Flight.
+Starting action Itinerary.
+Itinerary.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Itinerary.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Itinerary.c(9): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/home.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): web_url("welcome.pl_2") was successful, 4419 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Itinerary.
+Starting action SignOff.
+SignOff.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+SignOff.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+SignOff.c(9): web_reg_find started  	[MsgId: MMSG-26355]
+SignOff.c(9): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+SignOff.c(19): web_url("welcome.pl_3") started  	[MsgId: MMSG-26355]
+SignOff.c(19): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26557]
+SignOff.c(19): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+SignOff.c(19): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+SignOff.c(19): web_url("welcome.pl_3") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Sign-off successful
+Ending action SignOff.
+Ending iteration 1.
+Starting iteration 2.
+Starting action Action.
+Ending action Action.
+Starting action Login.
+Login.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Login.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Login.c(6): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Login.c(6): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Login.c(9): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Login.c(9): web_url("WebTours") was successful, 10080 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(24): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Login.c(24): web_submit_data("login.pl") was successful, 795 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Login.
+Starting action Select_Flight.
+Select_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Select_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Select_Flight.c(9): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): web_url("welcome.pl") was successful, 10000 body bytes, 2212 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Select_Flight.c(22): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Select_Flight.c(22): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Select_Flight.c(32): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(32): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Select_Flight.c(32): web_submit_data("reservations.pl") was successful, 2443 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Select_Flight.
+Starting action Book_Flight.
+Book_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Book_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Book_Flight.c(9): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") was successful, 2635 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Book_Flight.c(29): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") was successful, 3273 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Book_Flight.
+Starting action Itinerary.
+Itinerary.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Itinerary.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Itinerary.c(9): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/home.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): web_url("welcome.pl_2") was successful, 4419 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Itinerary.
+Starting action SignOff.
+SignOff.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+SignOff.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+SignOff.c(9): web_reg_find started  	[MsgId: MMSG-26355]
+SignOff.c(9): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+SignOff.c(19): web_url("welcome.pl_3") started  	[MsgId: MMSG-26355]
+SignOff.c(19): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26557]
+SignOff.c(19): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+SignOff.c(19): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+SignOff.c(19): web_url("welcome.pl_3") was successful, 2172 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Sign-off successful
+Ending action SignOff.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Action.
+Ending action Action.
+Starting action Login.
+Login.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Login.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Login.c(6): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Login.c(6): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Login.c(9): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Login.c(9): web_url("WebTours") was successful, 10076 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(24): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Login.c(24): web_submit_data("login.pl") was successful, 795 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Login.
+Starting action Select_Flight.
+Select_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Select_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Select_Flight.c(9): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): web_url("welcome.pl") was successful, 10000 body bytes, 2212 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Select_Flight.c(22): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Select_Flight.c(22): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Select_Flight.c(32): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(32): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Select_Flight.c(32): web_submit_data("reservations.pl") was successful, 2443 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Select_Flight.
+Starting action Book_Flight.
+Book_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Book_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Book_Flight.c(9): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") was successful, 2637 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Book_Flight.c(29): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") was successful, 3272 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Book_Flight.
+Starting action Itinerary.
+Itinerary.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Itinerary.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Itinerary.c(9): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/home.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): web_url("welcome.pl_2") was successful, 4419 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Itinerary.
+Starting action SignOff.
+SignOff.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+SignOff.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+SignOff.c(9): web_reg_find started  	[MsgId: MMSG-26355]
+SignOff.c(9): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+SignOff.c(19): web_url("welcome.pl_3") started  	[MsgId: MMSG-26355]
+SignOff.c(19): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26557]
+SignOff.c(19): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+SignOff.c(19): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+SignOff.c(19): web_url("welcome.pl_3") was successful, 2175 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Sign-off successful
+Ending action SignOff.
+Ending iteration 3.
+Starting iteration 4.
+Starting action Action.
+Ending action Action.
+Starting action Login.
+Login.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Login.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Login.c(6): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Login.c(6): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Login.c(9): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26573]
+Login.c(9): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Login.c(9): web_url("WebTours") was successful, 10080 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(24): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Login.c(24): web_submit_data("login.pl") was successful, 795 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Login.
+Starting action Select_Flight.
+Select_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Select_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Select_Flight.c(9): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26573]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Select_Flight.c(9): web_url("welcome.pl") was successful, 10000 body bytes, 2212 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Select_Flight.c(22): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Select_Flight.c(22): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Select_Flight.c(32): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Select_Flight.c(32): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Select_Flight.c(32): web_submit_data("reservations.pl") was successful, 2443 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Select_Flight.
+Starting action Book_Flight.
+Book_Flight.c(4): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Book_Flight.c(4): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Book_Flight.c(9): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Book_Flight.c(9): web_submit_data("reservations.pl_2") was successful, 2637 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Book_Flight.c(29): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Book_Flight.c(29): web_submit_data("reservations.pl_3") was successful, 3268 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Book_Flight.
+Starting action Itinerary.
+Itinerary.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Itinerary.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Itinerary.c(9): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26573]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/home.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Itinerary.c(9): web_url("welcome.pl_2") was successful, 4419 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Itinerary.
+Starting action SignOff.
+SignOff.c(4): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+SignOff.c(4): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+SignOff.c(9): web_reg_find started  	[MsgId: MMSG-26355]
+SignOff.c(9): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+SignOff.c(19): web_url("welcome.pl_3") started  	[MsgId: MMSG-26355]
+SignOff.c(19): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26573]
+SignOff.c(19): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26557]
+SignOff.c(19): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+SignOff.c(19): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+SignOff.c(19): web_url("welcome.pl_3") was successful, 2168 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Sign-off successful
+Ending action SignOff.
+Ending iteration 4.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

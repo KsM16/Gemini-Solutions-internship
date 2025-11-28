@@ -1,0 +1,192 @@
+Virtual User Script started at: 21-09-2025 16:03:28
+Starting action vuser_init.
+Web Turbo Replay of Opentext Performance Engineering 2025.1.0 for Windows 11; build 573 (Jan 08 2025 17:57:17)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\tryout_1\\default.cfg"  	[MsgId: MMSG-27141]
+Vuser directory: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\tryout_1"  	[MsgId: MMSG-27052]
+Vuser output directory: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\tryout_1"  	[MsgId: MMSG-27050]
+Operating system's current working directory: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\tryout_1"  	[MsgId: MMSG-27048]
+UTC (GMT) start date/time   : 2025-09-21 10:33:28  	[MsgId: MMSG-26992]
+LOCAL start date/time       : 2025-09-21 16:03:28  	[MsgId: MMSG-26991]
+Local daylight-Savings-Time : No  	[MsgId: MMSG-26990]
+Some of the Runtime Settings:  	[MsgId: MMSG-27142]
+    Download non-HTML resources: Yes  	[MsgId: MMSG-27018]
+    Verification checks: No  	[MsgId: MMSG-27017]
+    Convert from/to UTF-8: No  	[MsgId: MMSG-27016]
+    Simulate a new user each iteration: Yes  	[MsgId: MMSG-27009]
+    Non-critical item errors as warnings: Yes  	[MsgId: MMSG-27008]
+    HTTP errors as warnings: No  	[MsgId: MMSG-27007]
+    WinInet replay instead of Sockets: No  	[MsgId: MMSG-27006]
+    HTTP version: 1.1  	[MsgId: MMSG-27005]
+    Keep-Alive HTTP connections: Yes  	[MsgId: MMSG-27004]
+    Max self Meta refresh updates: 2  	[MsgId: MMSG-27003]
+    Obtaining the proxy settings from the default browser: No proxy is used (direct connection to the Internet)  	[MsgId: MMSG-26845]
+    DNS caching: No  	[MsgId: MMSG-27035]
+    Simulate browser cache: Yes  	[MsgId: MMSG-27034]
+        Cache URLs requiring content (e.g., HTMLs): Yes  	[MsgId: MMSG-27033]
+            Additional URLs requiring content: text/xml;text/plain  	[MsgId: MMSG-27032]
+        Check for newer versions every visit to the page: No  	[MsgId: MMSG-27031]
+    Page download timeout (sec): 120  	[MsgId: MMSG-27030]
+    Resource Page Timeout is a Warning: No  	[MsgId: MMSG-27029]
+    ContentCheck enabled: Yes  	[MsgId: MMSG-27028]
+    ContentCheck script-level file: "C:\Users\Kshitiz.manral\Documents\VuGen\Scripts\tryout_1\LrwiAedScript.xml"  	[MsgId: MMSG-27027]
+    Enable Web Page Breakdown: No  	[MsgId: MMSG-27026]
+    Enable connection data points: Yes  	[MsgId: MMSG-27023]
+    Process socket after reschedule: Yes  	[MsgId: MMSG-27022]
+    Snapshot on error: No  	[MsgId: MMSG-27021]
+    Define each step as a transaction: No  	[MsgId: MMSG-27020]
+    Read beyond Content-Length: No  	[MsgId: MMSG-26994]
+    Parse HTML Content-Type: TEXT  	[MsgId: MMSG-26999]
+    Graph hits per second and HTTP status codes: Yes  	[MsgId: MMSG-26998]
+    Graph response bytes per second: Yes  	[MsgId: MMSG-26997]
+    Graph pages per second: No  	[MsgId: MMSG-26996]
+    Web recorder version ID: 8  	[MsgId: MMSG-26995]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action GET.
+GET.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+GET.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+GET.c(6): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+GET.c(6): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+GET.c(12): Notify: Transaction "API_101_GET" started.
+GET.c(14): web_custom_request("web_custom_request") started  	[MsgId: MMSG-26355]
+GET.c(14): t=375ms: Connecting [0] to host 104.26.11.213:443  	[MsgId: MMSG-26000]
+GET.c(14): t=380ms: Connected socket [0] from 192.168.1.8:24371 to 104.26.11.213:443 in 5 ms  	[MsgId: MMSG-26000]
+GET.c(14): t=383ms: Trying to set SNI with servername reqres.in  	[MsgId: MMSG-26000]
+GET.c(14): t=384ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+GET.c(14): The request to server https://reqres.in/api/users/2" is done with headers:
+GET.c(14):     :method = GET
+GET.c(14):     :scheme = https
+GET.c(14):     :path = /api/users/2
+GET.c(14):     :authority = reqres.in
+GET.c(14):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+GET.c(14):     Accept-Encoding = gzip, deflate, br
+GET.c(14):     Accept = */*
+GET.c(14): t=471ms: 1411-byte response headers for "https://reqres.in/api/users/2" (RelFrameId=1, Internal ID=1)
+GET.c(14):     HTTP/2.0 200\r\n
+GET.c(14):     Status: 200\r\n
+GET.c(14):     date: Sun, 21 Sep 2025 10:33:28 GMT\r\n
+GET.c(14):     content-type: application/json; charset=utf-8\r\n
+GET.c(14):     access-control-allow-credentials: true\r\n
+GET.c(14):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorizatio
+GET.c(14):     n, x-api-key\r\n
+GET.c(14):     access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS\r\n
+GET.c(14):     access-control-allow-origin: http://localhost:5173\r\n
+GET.c(14):     etag: W/"152-ApQgGHL6RKwaebFlrPCYPBO1xHg"\r\n
+GET.c(14):     nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction
+GET.c(14):     ":0.01,"failure_fraction":0.1}\r\n
+GET.c(14):     ratelimit-limit: 100\r\n
+GET.c(14):     ratelimit-policy: 100;w=60\r\n
+GET.c(14):     ratelimit-remaining: 97\r\n
+GET.c(14):     ratelimit-reset: 10\r\n
+GET.c(14):     referrer-policy: strict-origin-when-cross-origin\r\n
+GET.c(14):     report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=XFS
+GET.c(14):     J1mCzjK%2FYC3SQXPVGIO%2FakgknGOhHOUKsxQyBoas%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df271
+GET.c(14):     8e11\\u0026ts=1758444340"}],"max_age":3600}\r\n
+GET.c(14):     reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=XFSJ1mCzjK%2FYC3SQXPVGIO
+GET.c(14):     %2FakgknGOhHOUKsxQyBoas%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1758444340"\r\n
+GET.c(14):     server: cloudflare\r\n
+GET.c(14):     vary: Origin, accept-encoding\r\n
+GET.c(14):     via: 1.1 heroku-router\r\n
+GET.c(14):     x-content-type-options: nosniff\r\n
+GET.c(14):     x-frame-options: DENY\r\n
+GET.c(14):     x-request-id: fc7ac617-e409-0885-c441-9b71299c6123\r\n
+GET.c(14):     x-xss-protection: 1; mode=block\r\n
+GET.c(14):     age: 6467\r\n
+GET.c(14):     cache-control: max-age=14400\r\n
+GET.c(14):     cf-cache-status: HIT\r\n
+GET.c(14):     content-encoding: br\r\n
+GET.c(14):     cf-ray: 9828e7900b9154d8-DEL\r\n
+GET.c(14):     \r\n
+GET.c(14): t=477ms: 236-byte ENCODED response body received for "https://reqres.in/api/users/2" (RelFrameId=1, Internal ID=1)
+GET.c(14): t=480ms: 338-byte DECODED response body for "https://reqres.in/api/users/2" (RelFrameId=1, Internal ID=1)
+GET.c(14):     {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver"
+GET.c(14):     ,"avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://contentcadd
+GET.c(14):     y.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing end
+GET.c(14):     less social media content? Let Content Caddy generate it for you."}}
+GET.c(14): HTML parsing not performed for Content-Type "application/json" ("ParseHtmlContentType" Runtime Setting is "TEXT"). URL="https://reqres.in/api/users/2"  	[MsgId: MMSG-26547]
+GET.c(14): t=483ms: Request done "https://reqres.in/api/users/2"  	[MsgId: MMSG-26000]
+GET.c(14): Notify: Saving Parameter "Id = 2".
+GET.c(14): web_custom_request("web_custom_request") was successful, 236 body bytes, 1411 header bytes  	[MsgId: MMSG-26386]
+GET.c(23): Notify: Parameter Substitution: parameter "Id" =  "2"
+GET.c(24): Notify: Transaction "API_101_GET" ended with a "Pass" status (Duration: 0.2329 Wasted Time: 0.0724).
+Ending action GET.
+Starting action POST.
+POST.c(3): web_set_sockets_option started  	[MsgId: MMSG-26355]
+POST.c(3): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+POST.c(4): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+POST.c(4): Warning -26593: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26593]
+POST.c(4): "Content-Type: application/json" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26505]
+POST.c(4): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+POST.c(5): web_add_header("accept") started  	[MsgId: MMSG-26355]
+POST.c(5): "Accept: */*" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26505]
+POST.c(5): web_add_header("accept") was successful  	[MsgId: MMSG-26392]
+POST.c(7): web_add_header("x-api-key") started  	[MsgId: MMSG-26355]
+POST.c(7): An unrecognized header ("x-api-key") is being added  	[MsgId: MMSG-26594]
+POST.c(7): "x-api-key: reqres-free-v1" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26505]
+POST.c(7): web_add_header("x-api-key") was successful  	[MsgId: MMSG-26392]
+POST.c(9): web_custom_request("web_custom_request") started  	[MsgId: MMSG-26355]
+POST.c(9): Warning: The string '"name": "morpheus","job": "leader"' with parameter delimiters is not a parameter.
+POST.c(9): The request to server https://reqres.in/api/users" is done with headers:
+POST.c(9):     :method = POST
+POST.c(9):     :scheme = https
+POST.c(9):     :path = /api/users
+POST.c(9):     :authority = reqres.in
+POST.c(9):     Content-Type = application/json
+POST.c(9):     Cache-Control = no-cache
+POST.c(9):     Accept = */*
+POST.c(9):     x-api-key = reqres-free-v1
+POST.c(9):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+POST.c(9):     Accept-Encoding = gzip, deflate, br
+POST.c(9):     content-length = 36
+POST.c(9): The request to server "https://reqres.in/api/users" is done with body:
+POST.c(9):     {"name": "morpheus","job": "leader"}
+POST.c(9): t=1214ms: 1357-byte response headers for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=2)
+POST.c(9):     HTTP/2.0 201\r\n
+POST.c(9):     Status: 201\r\n
+POST.c(9):     date: Sun, 21 Sep 2025 10:33:29 GMT\r\n
+POST.c(9):     content-type: application/json; charset=utf-8\r\n
+POST.c(9):     content-length: 84\r\n
+POST.c(9):     access-control-allow-credentials: true\r\n
+POST.c(9):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorizatio
+POST.c(9):     n, x-api-key\r\n
+POST.c(9):     access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS\r\n
+POST.c(9):     access-control-allow-origin: http://localhost:5173\r\n
+POST.c(9):     etag: W/"54-FYtPtahF9D5gQ5Sjohsv2rwa93M"\r\n
+POST.c(9):     nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction
+POST.c(9):     ":0.01,"failure_fraction":0.1}\r\n
+POST.c(9):     ratelimit-limit: 100\r\n
+POST.c(9):     ratelimit-policy: 100;w=60\r\n
+POST.c(9):     ratelimit-remaining: 96\r\n
+POST.c(9):     ratelimit-reset: 4\r\n
+POST.c(9):     referrer-policy: strict-origin-when-cross-origin\r\n
+POST.c(9):     report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=CQf
+POST.c(9):     l1lrFh3IZF%2BOeJ%2BX%2Br7vsPjpxEC4wOmQCKMjjIIk%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2
+POST.c(9):     718e11\\u0026ts=1758450808"}],"max_age":3600}\r\n
+POST.c(9):     reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=CQfl1lrFh3IZF%2BOeJ%2BX%
+POST.c(9):     2Br7vsPjpxEC4wOmQCKMjjIIk%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1758450808"\r\n
+POST.c(9):     server: cloudflare\r\n
+POST.c(9):     vary: Origin\r\n
+POST.c(9):     via: 1.1 heroku-router\r\n
+POST.c(9):     x-content-type-options: nosniff\r\n
+POST.c(9):     x-frame-options: DENY\r\n
+POST.c(9):     x-request-id: 3a91e60b-2651-a77e-aa94-d8756e8b3ed9\r\n
+POST.c(9):     x-xss-protection: 1; mode=block\r\n
+POST.c(9):     cf-cache-status: DYNAMIC\r\n
+POST.c(9):     cf-ray: 9828e7917cad54d8-DEL\r\n
+POST.c(9):     \r\n
+POST.c(9): t=1220ms: 84-byte response body for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=2)
+POST.c(9):     {"name":"morpheus","job":"leader","id":"138","createdAt":"2025-09-21T10:33:28.985Z"}
+POST.c(9): HTML parsing not performed for Content-Type "application/json" ("ParseHtmlContentType" Runtime Setting is "TEXT"). URL="https://reqres.in/api/users"  	[MsgId: MMSG-26547]
+POST.c(9): t=1221ms: Request done "https://reqres.in/api/users"  	[MsgId: MMSG-26000]
+POST.c(9): web_custom_request("web_custom_request") was successful, 84 body bytes, 1357 header bytes  	[MsgId: MMSG-26386]
+Ending action POST.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+t=1258ms: Closed connection [0] to reqres.in:443 after completing 0 request(s)  	[MsgId: MMSG-26000]

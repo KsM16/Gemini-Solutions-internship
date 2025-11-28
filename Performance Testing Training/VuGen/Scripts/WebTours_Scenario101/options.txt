@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Kshitiz.manral\Documents\VuGen\Scripts\WebTours_Scenario101
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\kshitiz.manral\documents\vugen\scripts\webtours_scenario101\\logfile.log
+c:\users\kshitiz.manral\documents\vugen\scripts\webtours_scenario101\\combined_WebTours_Scenario101.c
+c:\users\kshitiz.manral\documents\vugen\scripts\webtours_scenario101\\pre_cci.c

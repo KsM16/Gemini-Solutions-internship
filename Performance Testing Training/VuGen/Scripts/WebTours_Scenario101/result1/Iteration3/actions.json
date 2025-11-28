@@ -1,0 +1,85 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": []
+    },
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1758470313536
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1758470313683
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Select_Flight",
+        "steps": [
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1758470313947
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1758470314097
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Book_Flight",
+        "steps": [
+            {
+                "stepId": "STEP21",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1758470314252
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1758470314407
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t8.inf",
+                "time": 1758470314662
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "SignOff",
+        "steps": [
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: welcome.pl_3",
+                "infFile": "t9.inf",
+                "time": 1758470314908
+            }
+        ],
+        "transactions": []
+    }
+]
